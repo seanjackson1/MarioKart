@@ -8,3 +8,5 @@ start # x y     Sent to all clients when the race starts with # of players and s
 Client to Server messages:
 moved x y ANG      Client moved to x y, is at angle ANG
 joined          Sent when client joins server
+
+To test out, must change IP addresses in Main.java
